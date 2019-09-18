@@ -10,5 +10,5 @@ Giełda Podstawy inwestowania Wydanie III zaktualizowane | Adam Zaremba | Januar
 
 Book title | Author | Date of start | Date of finish | ISBN |
 -----------|--------|---------------|----------------|------|
-The 40hour work week | Timothy Ferriss | ? | ? | 978-0-0919-2911-4
+The 4-hour work week | Timothy Ferriss | ? | ? | 978-0-0919-2911-4
 I will teach you to be rich | Ramit Sethi | ? | ? | 978-0-340-99805-2
