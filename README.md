@@ -1,4 +1,4 @@
-# Repository for tracking milestones achieved on the personal and career path
+# Repository for tracking milestones achieved on my personal and career path
 
 Place where I note meaningful knowledge which I found in:
  - books
