@@ -16,4 +16,6 @@ I will teach you to be rich | Ramit Sethi | October 2020 | 2021 | 978-0-340-9980
 Book title | Author | Date of start | Date of finish | ISBN |
 -----------|--------|---------------|----------------|------|
 The 4-hour work week | Timothy Ferriss | ? | ? | 978-0-0919-2911-4
+Ostatnie życzenie - Wiedźmin (Last wish - Witcher) | Andrzej Sapkowski | ~ |  ~ | ~ | 
+
 
