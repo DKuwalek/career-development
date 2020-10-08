@@ -1,5 +1,5 @@
 # Courses hosted on Akademia.pl 
-Akademia.pl is a platform created by Mirosław Burnejko, who works on adding more courses to https://akademia.pl/ platform.
+Akademia.pl is a platform created by Mirosław Burnejko, who offers courses for entrepreneurs on https://akademia.pl/ platform.
 
 | Course name | Start date | Finish date | Link | 
 | ----------- | ---------- | ----------- | ---- |
