@@ -19,5 +19,8 @@ The 4-hour work week | Timothy Ferriss | 15.03.2021 | ? | 978-0-0919-2911-4
 
 Book title | Author | Date of start | Date of finish | ISBN |
 -----------|--------|---------------|----------------|------|
-Total recall - Arnold Schwarzenegger (thank you @piecioshka) | ? | ? | ? | ?
+Total recall - Arnold Schwarzenegger (thank you @piecioshka) |   |   |   |  
+Zawód programista | | | | 
+Sztuka zwycięstwa. Wspomnienia twórcy Nike - Knight Phil | | | |
+Lider wystarczająco dobry. 12 lekcji autentycznego przywództwa | | | |
 
